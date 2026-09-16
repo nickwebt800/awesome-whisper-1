@@ -10,7 +10,8 @@
 * [C/C++ implementation of the Whisper](https://github.com/ggerganov/whisper.cpp) by [@ggerganov](https://github.com/ggerganov)
 * [Whisper Mic - Real-time transcription via termianl](https://github.com/mallorbc/whisper_mic) by [@mallorbc](https://github.com/mallorbc)
 * [Song Transcriptor App](https://github.com/BartekKrzepkowski/Song_Transcriptor_App) by [@BartekKrzepkowski](https://github.com/BartekKrzepkowski)
-* [Docker Image for Webservice API](https://github.com/ahmetoner/whisper-asr-webservice) by [@ahmetoner](https://github.com/ahmetoner)
+* [Docker Image for Webservice API](https://github.com/ahmetoner/whisper-asr-webservice)
+* [InstaScript - Browser-based Instagram Reel and video/audio transcription using Whisper tiny.en](https://github.com/nickwebt800/instascript) by [@nickwebt800](https://github.com/nickwebt800) by [@ahmetoner](https://github.com/ahmetoner)
 
 
 ## Tutorials
